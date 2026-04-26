@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1777245959870",
+    "nome": "Ana Lopes",
+    "dataHora": "2026-04-26T20:27",
+    "mensagem": "Olá! Seguem seus materiais. 📚 é um teste.",
+    "alunos": [
+      {
+        "nome": "Ana Lopes/55 75 8153-9427",
+        "telefone": "557581539427"
+      }
+    ],
+    "materiais": [
+      "1777243142409_pt14_T.pdf"
+    ],
+    "status": "enviado",
+    "criadoEm": "2026-04-26T23:25:59.871Z",
+    "enviadoEm": "2026-04-26T23:27:19.172Z",
+    "erro": null
+  },
+  {
+    "id": "1777246049826",
+    "nome": "Josue lopes",
+    "dataHora": "2026-04-26T20:28",
+    "mensagem": "Olá! Seguem seus materiais. 📚",
+    "alunos": [
+      {
+        "nome": "Josué/557191929005",
+        "telefone": "557191929005"
+      },
+      {
+        "nome": "Josue/557185279135",
+        "telefone": "557185279135"
+      }
+    ],
+    "materiais": [
+      "1777243142409_pt14_T.pdf",
+      "1777244043124_abril_2026_Pessoas_do_aplicativo_NWP.pdf"
+    ],
+    "status": "enviado",
+    "criadoEm": "2026-04-26T23:27:29.826Z",
+    "enviadoEm": "2026-04-26T23:28:38.168Z",
+    "erro": null
+  }
+]
